@@ -5,8 +5,10 @@ class Base //parent
 {
     public :
         int i;
+
     private :
         int j;
+
     protected:
         int k;
 
