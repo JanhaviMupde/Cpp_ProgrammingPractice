@@ -7,7 +7,9 @@ class Demo
 
     //overloading by changing number of parameters
     void fun(int i, int j) //fun@2ii
-    {}
+    {
+        
+    }
     void fun(int i, int j, int k) //fun@3iii
     {}
 
