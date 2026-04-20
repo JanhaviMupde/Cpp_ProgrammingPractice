@@ -23,6 +23,7 @@ class Demo
         void Fun() //void fun(Demo * const this)
         {
             cout<<"Inside fun..\n";
+            
             cout<<"Value of i is : "<<this->i<<"\n";
             cout<<"Value of j is : "<<this->j<<"\n";
             cout<<"Value of x is : "<<x<<"\n";
