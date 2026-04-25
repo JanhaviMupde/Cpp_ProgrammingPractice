@@ -5,6 +5,7 @@ using namespace std;
 class Base
 {
     public:
+
         int i,j;
         int Addition(int a, int b)      // Concrete
         {
