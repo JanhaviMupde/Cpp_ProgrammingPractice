@@ -25,6 +25,5 @@ int main()
 {   
     Base *bp = new Derived();          // Upcasting
 
-
     return 0;
 }
