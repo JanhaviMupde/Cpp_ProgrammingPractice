@@ -4,8 +4,7 @@ using namespace std;
 class Arithmatic
 {
     public:
-        int iNo1;
-        int iNo2;
+        int iNo1,iNo2;
 
         Arithmatic()
         {
