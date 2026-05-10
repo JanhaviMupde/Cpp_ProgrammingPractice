@@ -12,7 +12,6 @@ class Base
         }
         virtual int Substraction(int a, int b) = 0;      // Abstract
 };
-
 #pragma pack(1)
 class Derived : public Base     // Error
 {
