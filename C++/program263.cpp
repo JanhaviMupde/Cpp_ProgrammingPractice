@@ -22,5 +22,6 @@ int main()
     cin>>iValue;
     
     DisplayBinary(iValue);
+ 
     return 0;
 }
