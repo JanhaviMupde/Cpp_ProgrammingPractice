@@ -15,6 +15,7 @@ int main()
     {
         cout<<"Unable to allocate memory\n";
     }
+        
     else
     {
         cout<<"Memory gets succesfully allocated\n";
