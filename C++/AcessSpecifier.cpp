@@ -17,12 +17,10 @@ class Base //parent
         {
             i =10; j=20; k=30;
         }
-
 };
 
 class Derived : public Base
 {
-    
 
 };
 
