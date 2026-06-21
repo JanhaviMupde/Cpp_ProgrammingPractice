@@ -9,7 +9,6 @@ namespace LB
 {
     int j = 21;
 }
-
 using namespace LB;
 int main()
 {
